@@ -9,9 +9,7 @@ public class Hello {
         System.out.println("Faculty of Management Technology");
         System.out.println("Saiyai");
         System.out.println("Nakhonsi");
-        System.out.println("khom");
-        System.out.println("gameing");
-        System.out.println("ผมชื่อยาว2เมตร");
+
         
 
 
