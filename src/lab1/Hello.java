@@ -10,6 +10,7 @@ public class Hello {
         System.out.println("Saiyai");
         System.out.println("Nakhonsi");
         System.out.println("khom");
+        System.out.println("gameing");
 
 
 
