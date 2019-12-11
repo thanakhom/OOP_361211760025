@@ -11,6 +11,7 @@ public class Hello {
         System.out.println("Nakhonsi");
         System.out.println("khom");
         System.out.println("gameing");
+        System.out.println("ผมชื่อยาว2เมตร");
         
 
 
