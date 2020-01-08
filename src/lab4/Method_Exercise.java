@@ -21,22 +21,22 @@ public class Method_Exercise {
 
     }
 
-    //sum
+    //บวก
     public static double sum (double x,double y){
         return x + y;
     }
 
-    //sub
+    //ลบ
     public static double sub (double x,double y){
         return x-y;
     }
 
-    //mul
+    //คูณ
     public static double mul (double x,double y){
         return x*y;
     }
 
-    //div
+    //หาร
     public static double div (double x,double y){
         return x/y;
     }
