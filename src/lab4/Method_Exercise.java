@@ -15,9 +15,9 @@ public class Method_Exercise {
 
         //dissplay
         System.out.println("The summation of "+x+"and"+y+": "+sum(x,y));
-        System.out.println("The summation of "+x+"and"+y+": "+sub(x,y));
-        System.out.println("The summation of "+x+"and"+y+": "+mul(x,y));
-        System.out.println("The summation of "+x+"and"+y+": "+div(x,y));
+        System.out.println("The sub of "+x+"and"+y+": "+sub(x,y));
+        System.out.println("The mul of "+x+"and"+y+": "+mul(x,y));
+        System.out.println("The div of "+x+"and"+y+": "+div(x,y));
 
     }
 
@@ -41,4 +41,4 @@ public class Method_Exercise {
         return x/y;
     }
 
-}
+}//class
