@@ -17,7 +17,7 @@ public class DogApp {
         System.out.println(dog1.getHairColor());
 
         //2.ใช้ constructor ที่มีการรับพารามิเตอรื
-        //เป็นการสร้างวัตถุ พร้อมกับกำหนดข้อมูลให้กับข้อมูล
+        //เป็นการสร้างวัตถุ พร้อมกับกำหนดข้อมูลให้กับ;y956
         Dog dog2=new Dog("Dum",10,"Black");
 
         System.out.println(dog2.getName());
