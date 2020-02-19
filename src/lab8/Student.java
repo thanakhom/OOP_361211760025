@@ -1,11 +1,12 @@
 package lab8;
 
 public class Student extends Person{
-
+//คลาส Student สืบทอดมาจากคลาส Person
     private String stdID;
     private String program;
 
     public Student(String id, String name,String stdID,String program) {
+        //super ()เป็นการเรียกใช้งาน Constructor ของ supre class
         super(id, name);
         this.stdID = stdID;
         this.program = program;
